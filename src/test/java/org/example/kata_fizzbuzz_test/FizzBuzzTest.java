@@ -1,5 +1,6 @@
-package org.example;
+package org.example.kata_fizzbuzz_test;
 
+import org.example.kata_fizzbuzz.FizzBuzz;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

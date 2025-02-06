@@ -1,4 +1,4 @@
-package org.example;
+package org.example.kata_fizzbuzz;
 
 public class FizzBuzz {
     public String execute(Integer i) {

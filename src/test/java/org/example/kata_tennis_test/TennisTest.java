@@ -1,15 +1,16 @@
-package org.example;
+package org.example.kata_tennis_test;
 
 
-import junit.framework.TestCase;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
+import org.example.kata_tennis.TennisGame;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.BeforeEach;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
  * Unit test for simple App.
  */
-public class AppTest extends TestCase {
+public class TennisTest {
 
     private TennisGame tennisGame;
 
